@@ -7,7 +7,7 @@ This device should be setted in a car.
 
 It has 5 functions
 
-1. If your car has been moved, this device will send GPS information to your phone by SMS.
+1. If your car has been stolen, this device will send GPS information to your phone by SMS.
 
 2. You also can send a code to this device to ask your car's position.
 

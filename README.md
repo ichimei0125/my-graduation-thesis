@@ -15,4 +15,4 @@ It has 5 functions
 
 4. If your car's window been broken by man-made, this device will send your a message.
 
-5. If your car's engine is too high, this device will send your a message.
+5. If your car's engine temperature is too high, this device will send your a message.
